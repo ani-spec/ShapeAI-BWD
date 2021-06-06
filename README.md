@@ -6,8 +6,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu">
 <img
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
-0THUMBNAIL-4.png"> </a>
+src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
 <br>I got to have hands on experience on:
 <li>JavaScript
 <li>HTML
@@ -23,7 +22,6 @@ or follow SHAPEAI on:
 "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
